@@ -1,0 +1,17 @@
+{
+  "name": "aave_brownie_py",
+  "version": "1.0.0",
+  "description": "1. Deposit some ETH into aave\r 2. Borrow some asset with ETH collateral\r     1. Sell that borrowed asset. (optional) (this is called short selling)\r 3. Repay everything back",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AntonioGarcia.mr243@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  }
+}
